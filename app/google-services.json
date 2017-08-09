@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "906382977642",
+    "firebase_url": "https://truckz-v2.firebaseio.com",
+    "project_id": "truckz-v2",
+    "storage_bucket": "truckz-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906382977642:android:4acab2397e435d47",
+        "android_client_info": {
+          "package_name": "br.com.truckZ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906382977642-n53qth6ioec54in2j3j587169iqc5p9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs6n1i02kK_QPA3ng-G9I-RxOsnKMPwiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
